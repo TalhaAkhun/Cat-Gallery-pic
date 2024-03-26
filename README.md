@@ -1,4 +1,4 @@
-Cat Gallery 🐱
+# Cat Gallery 🐱
 Welcome to the Cat Gallery project! This is a delightful collection of adorable cat images curated for all the cat lovers out there.
 
 About
