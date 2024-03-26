@@ -14,7 +14,7 @@ Cat Gallery is a project developed as part of the freeCodeCamp curriculum. It ai
 - HTML5
 - CSS3
 - JavaScript
-Bootstrap (for responsive design)
+- Bootstrap (for responsive design)
 Usage
 To view the Cat Gallery:
 
