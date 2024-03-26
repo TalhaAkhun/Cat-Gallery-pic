@@ -9,7 +9,7 @@ Cat Gallery is a project developed as part of the freeCodeCamp curriculum. It ai
 - Click on an image to view it in full size.
 - Enjoy the variety of cat breeds and personalities represented in the gallery.
 - Technologies Used
-This project is built using the following technologies:
+## This project is built using the following technologies:
 
 HTML5
 CSS3
