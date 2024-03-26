@@ -24,7 +24,7 @@ To view the Cat Gallery:
 
 ## Credits
 - Cat images sourced from Unsplash (https://unsplash.com/)
-Project idea and implementation by freeCodeCamp (https://www.freecodecamp.org/)
+- Project idea and implementation by freeCodeCamp (https://www.freecodecamp.org/)
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
