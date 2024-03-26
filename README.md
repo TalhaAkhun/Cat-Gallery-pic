@@ -20,7 +20,7 @@ To view the Cat Gallery:
 
 - Clone this repository to your local machine.
 - Open the index.html file in your web browser.
-That's it! Now you can enjoy the cuteness overload in our Cat Gallery.
+- That's it! Now you can enjoy the cuteness overload in our Cat Gallery.
 
 Credits
 Cat images sourced from Unsplash (https://unsplash.com/)
