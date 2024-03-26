@@ -28,4 +28,4 @@ To view the Cat Gallery:
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Thank you for visiting the Cat Gallery! We hope you have a purr-fectly delightful time browsing through our collection. Meow! 🐾
+Thank you for visiting the Cat Gallery! We hope you have a purr-fectly delightful time browsing through our collection. **Meow! 🐾**
