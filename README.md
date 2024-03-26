@@ -5,7 +5,7 @@ Welcome to the Cat Gallery project! This is a delightful collection of adorable 
 Cat Gallery is a project developed as part of the freeCodeCamp curriculum. It aims to showcase the beauty and charm of our feline friends through a collection of high-quality cat images.
 
 ## Features
-Browse a curated collection of beautiful cat images.
+= Browse a curated collection of beautiful cat images.
 Click on an image to view it in full size.
 Enjoy the variety of cat breeds and personalities represented in the gallery.
 Technologies Used
