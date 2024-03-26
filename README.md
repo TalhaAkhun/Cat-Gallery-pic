@@ -12,7 +12,7 @@ Cat Gallery is a project developed as part of the freeCodeCamp curriculum. It ai
 ## This project is built using the following technologies:
 
 - HTML5
-CSS3
+- CSS3
 JavaScript
 Bootstrap (for responsive design)
 Usage
